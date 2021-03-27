@@ -1,10 +1,6 @@
 ### Hey, I'm Miguel! 👋🏾
 
-<!--
-**MiguellNeto/MiguellNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="center">
-  
   <a href="https://gitlab.com/miguelneto.artes">
     <img alt="MiguelNeto" src="https://img.shields.io/badge/MiguelNeto-GitLab-green">
   </a>
